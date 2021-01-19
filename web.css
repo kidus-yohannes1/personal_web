@@ -1,0 +1,37 @@
+body{
+    background-color: lightgray;
+}
+.container-lg{
+    width: 80%;
+}
+.kide {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-size: 50px;
+    color:#0a094f;
+  }
+.navbar{
+    background-color: #0a094f;
+    color: white;
+
+}
+.collapse{
+    font-size: larger;
+}
+.topic{
+    font-family: 'Roboto', sans-serif;
+}
+h2 {
+    font-family: 'Roboto', sans-serif;
+  }
+p {
+    font-family: 'Noto Sans JP', sans-serif;     
+  }
+p.cp{
+    text-align: center;
+}
+.footer{
+    padding: 5%;
+    background-color:#0a094f;
+    color: white;
+}
