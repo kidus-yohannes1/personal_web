@@ -30,6 +30,9 @@ p {
 p.cp{
     text-align: center;
 }
+p.connect{
+    color: gray;
+}
 .footer{
     padding: 5%;
     background-color:#0a094f;
